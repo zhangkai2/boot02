@@ -5,6 +5,10 @@ public class User {
      * 注释
      */
     private  String userName;
+
+    /**
+     * 知识
+     */
     private  String pwd;
 
 
