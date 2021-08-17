@@ -1,6 +1,9 @@
 package com.zk.bean;
 
 public class User {
+    /**
+     * 注释
+     */
     private  String userName;
     private  String pwd;
 
